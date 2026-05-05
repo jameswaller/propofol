@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#d4f0e8"/>
+  <circle cx="256" cy="220" r="140" fill="#3daa96"/>
+  <text x="256" y="280" text-anchor="middle" font-size="160" font-family="sans-serif">💉</text>
+  <rect x="156" y="370" width="200" height="48" rx="24" fill="#2a9d8f"/>
+  <text x="256" y="404" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="white" letter-spacing="2">propofol</text>
+</svg>
